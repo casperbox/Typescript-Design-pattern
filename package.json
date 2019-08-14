@@ -1,0 +1,26 @@
+{
+  "name": "typescript-design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-rocko/Typescript-Design-pattern.git"
+  },
+  "keywords": ["Typescript", "Design-pattern"],
+  "dependencies": {
+    "awesome-typescript-loader": "3.4.1",
+    "typescript": "2.8.3",
+    "webpack": "3.10.0",
+    "webpack-dev-server":"2.9.7"
+  },
+  "author": "Shubham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham-rocko/Typescript-Design-pattern/issues"
+  },
+  "homepage": "https://github.com/shubham-rocko/Typescript-Design-pattern#readme"
+}
